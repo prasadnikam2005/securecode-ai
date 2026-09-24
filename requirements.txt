@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+Pillow
+pytesseract
+bandit
+pylint
+pytest
